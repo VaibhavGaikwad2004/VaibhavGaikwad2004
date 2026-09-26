@@ -44,6 +44,14 @@ I'm Vaibhav, an AI/ML and Data Science enthusiast interested in building practic
 
 </p>
 
+--- 
+## 🎯 Skills & Languages
+
+<p align="center">
+  <img src="./assets/radar.svg" width="48%" alt="Skills radar" />
+  <img src="./assets/radar-langs.svg" width="48%" alt="Language radar" />
+</p>
+
 ---
 
 ## 📊 Machine Learning Projects
@@ -76,16 +84,9 @@ I'm Vaibhav, an AI/ML and Data Science enthusiast interested in building practic
 </p>
 
 <p align="center">
-  <img src="./assets/metrics.habits.svg" width="90%" alt="GitHub coding habits" />
-</p>
-
-<p align="center">
   <img src="./assets/metrics.languages.svg" width="90%" alt="GitHub languages" />
 </p>
 
-<p align="center">
-  <img src="./assets/metrics.achievements.svg" width="90%" alt="GitHub achievements" />
-</p>
 ---
 
 ## 🚀 Featured Projects
