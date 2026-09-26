@@ -48,8 +48,8 @@ I'm Vaibhav, an AI/ML and Data Science enthusiast interested in building practic
 ## 🎯 Skills & Languages
 
 <p align="center">
-  <img src="./assets/radar.svg" width="48%" alt="Skills radar" />
-  <img src="./assets/radar-langs.svg" width="48%" alt="Language radar" />
+  <img src="./assets/radar-dark.svg" width="48%" alt="Skills radar" />
+  <img src="./assets/radar-langs-dark.svg" width="48%" alt="Language radar" />
 </p>
 
 ---
