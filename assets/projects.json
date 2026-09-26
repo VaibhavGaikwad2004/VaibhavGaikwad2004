@@ -1,0 +1,21 @@
+{
+  "_comment": "Featured repos, in README order.",
+  "projects": [
+    {
+      "repo": "Car-Safety-Prediction-using-Random-Forest-Classifier",
+      "description": "Machine learning classification project that predicts car safety levels using a Random Forest Classifier with Python and scikit-learn."
+    },
+    {
+      "repo": "Handwritten-Digit-Classification-SVM",
+      "description": "Computer vision and machine learning project for handwritten digit classification using a Support Vector Machine with Python and scikit-learn."
+    },
+    {
+      "repo": "Uber-Ride-Price-Prediction-using-Regression",
+      "description": "Regression-based machine learning project that predicts Uber ride prices using data preprocessing, feature analysis, and Python."
+    },
+    {
+      "repo": "Iris-KMeans-Clustering",
+      "description": "Unsupervised machine learning project that applies K-Means clustering to the Iris dataset to discover patterns and group similar samples."
+    }
+  ]
+}
